@@ -2,7 +2,7 @@
   "name": "spartacusstore",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo build done",
+    "build": "mkdir -p dist/spartacusstore && echo 'build done'",
     "build:ssr": "echo ssr build done"
   }
 }
