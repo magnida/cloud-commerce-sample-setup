@@ -1,4 +1,9 @@
 {
-  "applications": [],
+  "applications": [
+    {
+      "name": "spartacusstore",
+      "path": "spartacusstore"
+    }
+  ],
   "nodeVersion": "22"
 }
