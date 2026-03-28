@@ -1,8 +1,0 @@
-{
-  "name": "spartacusstore",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "mkdir -p dist/spartacusstore/opt && echo 'build done'",
-    "build:ssr": "echo ssr build done"
-  }
-}
